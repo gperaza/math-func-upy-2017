@@ -1,0 +1,10 @@
+#+TITLE: Mathematical Functions - UPY
+
+This course provides a basic introduction to probability and statistics for
+second quarter undergraduates at the /Universidad Politécnica de Yucatán/. The
+course covers descriptive statistics, probability and inferential statistics.
+
+ - *Instructor:* Gonzalo G. Peraza Mues
+ - *email:* =ggperaza at gmail.com=
+
+Please read the [[file:syllabus.org][syllabus]].
