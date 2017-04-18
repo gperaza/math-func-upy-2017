@@ -133,7 +133,7 @@ REL LINK"
                                 "pages-html/public/css/hyde.css"))
        (build-head-link "stylesheet"
                         (concat
-                         "http://fonts.googleapis.com/"
+                         "https://fonts.googleapis.com/"
                          "css?family=PT+Sans:400,400italic,700|Abril+Fatface"))
        "\n"
        "<!-- Icons -->\n"
