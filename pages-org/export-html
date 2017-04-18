@@ -145,7 +145,9 @@ REL LINK"
                                 "pages-html/public/favicon.ico"))))
 
 (setq org-export-headline-levels 4)
-;;; project-setup.el ends here
+
+(add-to-list 'org-export-options-alist
+             '(:subtitle "SUBTITLE" nil nil parse) t)
 
 (defun org-html-template (contents info)
   "Return complete document string after HTML conversion.
