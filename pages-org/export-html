@@ -155,7 +155,7 @@ CONTENTS is the transcoded contents string.  INFO is a plist
 holding export options."
   (concat
    "<!DOCTYPE html>\n"
-   "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en-us\">"
+   "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en-us\">\n\n"
    ;; Head
    "<head>\n"
    (org-html--build-meta-info info)

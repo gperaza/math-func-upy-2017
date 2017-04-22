@@ -1,10 +1,18 @@
 #+TITLE: Mathematical Functions - UPY
+#+SUBTITLE: A first course on trigonometry, analical geometry, functions, and vector algebra on the undergraduate level.
 
-This course provides a basic introduction to probability and statistics for
-second quarter undergraduates at the /Universidad Politécnica de Yucatán/. The
-course covers descriptive statistics, probability and inferential statistics.
-
- - *Instructor:* Gonzalo G. Peraza Mues
- - *email:* =ggperaza at gmail.com=
-
-Please read the [[file:syllabus.org][syllabus]].
+ - Instructor: Gonzalo G. Peraza Mues
+ - email: ~gonzalo.peraza@upy.edu.mx~
+ - Units:
+   - Geometry and Trigonometry
+   - Analytic Geometry
+   - Functions
+   - Vector Algebra
+ - References:
+   - Álgebra y trigonometria con geometría analítica by Swokowski, E.
+   - Geometría plana y del espacio con trigonometría by Baldor, J.A.
+   - [[http://immersivemath.com/ila/index.html][immersive linear algebra]] by J. Ström, K. Åström, and T. Akenine-Möller
+   - Algebra and Trigonometry published by openstax, freely available [[https://openstax.org/details/algebra-and-trigonometry][here]].
+ - Resources
+   * Online courses
+     * GeometryX: An edx course on basic geometry.
