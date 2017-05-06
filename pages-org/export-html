@@ -27,12 +27,12 @@
 (setq org-html-htmlize-output-type 'css)
 (setq org-export-babel-evaluate nil) ;; Don't evaluate on export by default.
 
-(setq org-html-viewport
-      '((width "device-width")
-        (initial-scale "1")
-        (minimum-scale "")
-        (maximum-scale "1")
-        (user-scalable "")))
+;; (setq org-html-viewport
+;;       '((width "device-width")
+;;         (initial-scale "1")
+;;         (minimum-scale "")
+;;         (maximum-scale "1")
+;;         (user-scalable "")))
 
 (org-babel-do-load-languages
  'org-babel-load-languages
@@ -161,6 +161,9 @@ holding export options."
    (org-html--build-meta-info info)
    (org-html--build-head info)
    (org-html--build-mathjax-config info)
+
+   "<!-- Enable responsiveness on mobile devices-->\n"
+   "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1\">\n"
    "</head>\n"
    ;; Body
    "<body class=\"theme-base-upy\">\n"

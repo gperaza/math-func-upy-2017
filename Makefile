@@ -12,7 +12,7 @@ site_org_dir= pages-org
 
 export_script = ${site_org_dir}/export-html
 
-all: index.html $(pages_html) $(grades_html)
+all: index.html $(pages_html) #$(grades_html)
 
 index.html: index.org $(export_script)
 	$(export_script) $<

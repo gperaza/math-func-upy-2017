@@ -1,18 +1,21 @@
 #+TITLE: Mathematical Functions - UPY
-#+SUBTITLE: A first course on trigonometry, analical geometry, functions, and vector algebra on the undergraduate level.
+#+SUBTITLE: A first course on functions, trigonometry, and vector algebra on the undergraduate level.
 
  - Instructor: Gonzalo G. Peraza Mues
  - email: ~gonzalo.peraza@upy.edu.mx~
- - Units:
-   - Geometry and Trigonometry
-   - Analytic Geometry
+ - Contents (Not necessarily in this order):
    - Functions
+   - Trigonometry
+   - Analytic Geometry
    - Vector Algebra
- - References:
+ - Main references (freely available):
+   - [[https://sites.math.washington.edu/~m120/TheBook/TB2016.pdf][Precalculus]] by Collingwood, Prince and Conroy. Content on functions and
+     trigonometry will follow this book.
+   - [[http://immersivemath.com/ila/index.html][immersive linear algebra]] by J. Ström, K. Åström,
+     and T. Akenine-Möller. Introduction to vector algebra will follow the first
+     chapters of this book.
+ - Support references:
    - Álgebra y trigonometria con geometría analítica by Swokowski, E.
    - Geometría plana y del espacio con trigonometría by Baldor, J.A.
-   - [[http://immersivemath.com/ila/index.html][immersive linear algebra]] by J. Ström, K. Åström, and T. Akenine-Möller
-   - Algebra and Trigonometry published by openstax, freely available [[https://openstax.org/details/algebra-and-trigonometry][here]].
- - Resources
-   * Online courses
-     * GeometryX: An edx course on basic geometry.
+   - [[https://openstax.org/details/algebra-and-trigonometry][Algebra and Trigonometry]] published by openstax (free).
+   - [[http://www.stitz-zeager.com/szprecalculus07042013.pdf][Precalculus]] by Stitz and Zeager (free).

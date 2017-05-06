@@ -1,0 +1,95 @@
+#+TITLE: Syllabus
+#+SUBTITLE: I reserve the right to make changes to the syllabus
+#+OPTIONS: toc:nil num:nil
+
+* Description
+This is an introductory mathematics course that covers precalculus topics and
+some vector algebra including an introduction to vector spaces.
+
+*Objective:* The student will develop mathematical models using tools from
+analytic geometry, trigonometry and vector algebra to contribute to the solution
+of problems in their environment and the basic sciences
+
+*Quarter:* Second
+
+*Hours per week:* 4
+
+*Total hours:* 60
+
+*Prerequisites:* Basic algebra.
+
+* Outline
+The curse will be structured in 3 mayor blocks with corresponding subtopics:
+
+1. Functions
+   1. Units and rates
+   2. The coordinate system
+   3. Lines and circles
+   4. Linear Modeling
+   5. Functions, Graphs and Graphical Analysis
+   6. Quadratic Modeling
+   7. Composition of functions
+   8. Inverse functions
+   9. Exponential and logarithmic functions
+   10. Transformations on functions
+   11. Rational functions
+2. Trigonometry
+   1. Measuring an angle
+   2. Circular motion
+   3. Circular and trigonometric functions
+   4. Sinusoidal functions
+   5. Inverse circular functions
+3. Vector algebra
+   1. Vectors in two and three dimensions
+   2. Linear transformations
+      
+* References
+** Main references
+All main references are freely available with links provided below.
+   - [[https://sites.math.washington.edu/~m120/TheBook/TB2016.pdf][Precalculus]] by Collingwood, Prince and Conroy. Content on functions and
+     trigonometry will follow this book.
+   - [[http://immersivemath.com/ila/index.html][immersive linear algebra]] by J. Ström, K. Åström,
+     and T. Akenine-Möller. Introduction to vector algebra will follow the first
+     chapters of this book.
+** Support references
+This book are provided as optional reference material. They cover roughly the
+same topics and include a great number of practice exercises. Neither of them
+was chosen as the main book because they all of them exceed the 1000 pages
+count, far more than a typical student can absorb in a single quarter.
+   - Álgebra y trigonometria con geometría analítica by Swokowski, E.
+   - Geometría plana y del espacio con trigonometría by Baldor, J.A.
+   - [[https://openstax.org/details/algebra-and-trigonometry][Algebra and Trigonometry]] published by openstax (free).
+   - [[http://www.stitz-zeager.com/szprecalculus07042013.pdf][Precalculus]] by Stitz and Zeager (free).
+* Grading
+The course is divided in 3 periods following roughly the 3 main units described
+in the outline. Each period will consist of several sets of homework problems
+and an exam. Per period grading is as follows:
+ - 40% Homework
+ - 60% Exam
+
+Exam dates and topics will be posted on the Lectures page.
+
+* Homework
+Homework will be posted in the course page after the corresponding lecture. All
+homework must be delivered the indicated date (typically one week after posting)
+without exception and must follow these guidelines:
+ - White pages.
+ - A front page with name, group, date and homework number clearly stated.
+ - Pages stapled together.
+ - All exercises must be clearly delimited with the solution following the
+   instruction. The solution must be clearly written and easy to follow.
+
+Solutions will be posted after the delivery date for each homework.
+* Class regulations
+
+* Advice to studying
+Do all your homework, read the textbook when assigned to, and dedicate at least
+another 8 hours to the course outside of class. Practice, practice,
+practice. Ask, ask, ask.
+
+The following notes are for University of Washington students taking a
+Precalculus course based on the same book we are using, the same advice apply to
+you: [[https://sites.math.washington.edu/~m120/math120studentnote.php]]
+
+Also, the following study guide may be helpful:
+http://www.cse.buffalo.edu/~rapaport/howtostudy.html
