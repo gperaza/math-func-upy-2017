@@ -1,5 +1,4 @@
 #+TITLE: Syllabus
-#+SUBTITLE: I reserve the right to make changes to the syllabus
 #+OPTIONS: toc:nil num:nil
 
 * Description
@@ -8,7 +7,7 @@ some vector algebra including an introduction to vector spaces.
 
 *Objective:* The student will develop mathematical models using tools from
 analytic geometry, trigonometry and vector algebra to contribute to the solution
-of problems in their environment and the basic sciences
+of problems in their environment and the basic sciences.
 
 *Quarter:* Second
 
@@ -18,31 +17,57 @@ of problems in their environment and the basic sciences
 
 *Prerequisites:* Basic algebra.
 
-* Outline
-The curse will be structured in 3 mayor blocks with corresponding subtopics:
+*Professor:* Gonzalo G. Peraza Mues
 
-1. Functions
-   1. Units and rates
-   2. The coordinate system
-   3. Lines and circles
-   4. Linear Modeling
-   5. Functions, Graphs and Graphical Analysis
-   6. Quadratic Modeling
-   7. Composition of functions
-   8. Inverse functions
-   9. Exponential and logarithmic functions
-   10. Transformations on functions
-   11. Rational functions
-2. Trigonometry
-   1. Measuring an angle
-   2. Circular motion
-   3. Circular and trigonometric functions
-   4. Sinusoidal functions
-   5. Inverse circular functions
-3. Vector algebra
-   1. Vectors in two and three dimensions
-   2. Linear transformations
-      
+
+* Outline
+The curse will be structured in 3 mayor units with corresponding subtopics. For
+each topic, course time is divided in hours for theory (saber) and hours for
+practice (saber hacer).
+
+| Learning Units                       | Theory | Practice | Total |
+|--------------------------------------+--------+----------+-------|
+| 1. Functions with Analytic Geometry. |     10 |       18 |    28 |
+| 2. Trigonometry.                     |      6 |       10 |    16 |
+| 3. Vector Algebra.                   |      6 |       10 |    16 |
+|--------------------------------------+--------+----------+-------|
+| *Totals*                               |     22 |       38 |    60 |
+
+*** 1. Functions with analytic geometry
+
+|                                                      | Theory | Practice | Total |
+|------------------------------------------------------+--------+----------+-------|
+| 1.1. Units, rates and the modeling process.          |        |          |       |
+| 1.2. The coordinate system and the distance formula. |        |          |       |
+| 1.3. Vertical and horizontal lines; circles.         |        |          |       |
+| 1.4. Linear Modeling                                 |        |          |       |
+| 1.5. Functions and Graphs                            |        |          |       |
+| 1.6. Graphical Analysis                              |        |          |       |
+| 1.7. Quadratic Modeling                              |        |          |       |
+| 1.8. Composition.                                    |        |          |       |
+| 1.9. Inverse functions                               |        |          |       |
+| 1.10. Exponential functions.                         |        |          |       |
+| 1.11. Exponential modeling                           |        |          |       |
+| 1.12. Logarithmic functions                          |        |          |       |
+| 1.13. Transformations on functions                   |        |          |       |
+| 1.14. Rational functions                             |        |          |       |
+
+*** 2. Trigonometry
+|                                                      | Theory | Practice | Total |
+|------------------------------------------------------+--------+----------+-------|
+| 2.1. Measuring an angle.                             |        |          |       |
+| 2.2. Circular motion.                                |        |          |       |
+| 2.3. The circular functions.                         |        |          |       |
+| 2.4. Trigonometric functions                         |        |          |       |
+| 2.5. Sinusoidal functions.                           |        |          |       |
+| 2.6. Inverse circular functions.                     |        |          |       |
+
+*** 3. Vector algebra
+|                                                      | Theory | Practice | Total |
+|------------------------------------------------------+--------+----------+-------|
+| 3.1. Vectors in two and three dimensions.            |        |          |       |
+| 3.2. Linear transformations.                         |        |          |       |
+
 * References
 ** Main references
 All main references are freely available with links provided below.

@@ -1,0 +1,8 @@
+#+Title: Homework
+
+Exercises are from the book by Collingwood et.al.
+
+| Homework         | Exercises                                                         | Due date      |
+|------------------+-------------------------------------------------------------------+---------------|
+| Chapters 1, 2, 3 | 1.5, 1.7, 1.10, 1.14, 2.4, 2.6, 2.8, 2.9, 3.3, 3.4, 3.5, 3.6, 3.7 | Friday May 19 |
+| Chapters 4, 5, 6 |                                                                   |               |
