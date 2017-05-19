@@ -1,6 +1,11 @@
 #+TITLE: Syllabus
 #+OPTIONS: toc:nil num:nil
 
+
+Choose your group to display the appropriate dates:
+
+Robotics [[file:syllabus_RA.html][A]] [[file:syllabus_RB.html][B]] [[file:syllabus_RC.html][C]] | Embedded Systems [[file:syllabus_EA.html][A]] | Data [[file:syllabus_DA.html][A]]
+
 * Description
 This is an introductory mathematics course that covers precalculus topics and
 some vector algebra including an introduction to vector spaces.
@@ -19,54 +24,20 @@ of problems in their environment and the basic sciences.
 
 *Professor:* Gonzalo G. Peraza Mues
 
-
 * Outline
 The curse will be structured in 3 mayor units with corresponding subtopics. For
 each topic, course time is divided in hours for theory (saber) and hours for
 practice (saber hacer).
 
-| Learning Units                       | Theory | Practice | Total |
-|--------------------------------------+--------+----------+-------|
-| 1. Functions with Analytic Geometry. |     10 |       18 |    28 |
-| 2. Trigonometry.                     |      6 |       10 |    16 |
-| 3. Vector Algebra.                   |      6 |       10 |    16 |
-|--------------------------------------+--------+----------+-------|
-| *Totals*                               |     22 |       38 |    60 |
+| Learning Units                       | Sessions | Theory | Practice | Total |
+|--------------------------------------+----------+--------+----------+-------|
+| 1. Functions with Analytic Geometry. |       15 |     10 |       20 |    30 |
+| 2. Trigonometry.                     |        7 |      5 |        9 |    14 |
+| 3. Vector Algebra.                   |        8 |      5 |       11 |    16 |
+|--------------------------------------+----------+--------+----------+-------|
+| *Totals*                               |       30 |     20 |       40 |    60 |
 
-*** 1. Functions with analytic geometry
-
-|                                                      | Theory | Practice | Total |
-|------------------------------------------------------+--------+----------+-------|
-| 1.1. Units, rates and the modeling process.          |        |          |       |
-| 1.2. The coordinate system and the distance formula. |        |          |       |
-| 1.3. Vertical and horizontal lines; circles.         |        |          |       |
-| 1.4. Linear Modeling                                 |        |          |       |
-| 1.5. Functions and Graphs                            |        |          |       |
-| 1.6. Graphical Analysis                              |        |          |       |
-| 1.7. Quadratic Modeling                              |        |          |       |
-| 1.8. Composition.                                    |        |          |       |
-| 1.9. Inverse functions                               |        |          |       |
-| 1.10. Exponential functions.                         |        |          |       |
-| 1.11. Exponential modeling                           |        |          |       |
-| 1.12. Logarithmic functions                          |        |          |       |
-| 1.13. Transformations on functions                   |        |          |       |
-| 1.14. Rational functions                             |        |          |       |
-
-*** 2. Trigonometry
-|                                                      | Theory | Practice | Total |
-|------------------------------------------------------+--------+----------+-------|
-| 2.1. Measuring an angle.                             |        |          |       |
-| 2.2. Circular motion.                                |        |          |       |
-| 2.3. The circular functions.                         |        |          |       |
-| 2.4. Trigonometric functions                         |        |          |       |
-| 2.5. Sinusoidal functions.                           |        |          |       |
-| 2.6. Inverse circular functions.                     |        |          |       |
-
-*** 3. Vector algebra
-|                                                      | Theory | Practice | Total |
-|------------------------------------------------------+--------+----------+-------|
-| 3.1. Vectors in two and three dimensions.            |        |          |       |
-| 3.2. Linear transformations.                         |        |          |       |
+<<<outline-file>>>
 
 * References
 ** Main references
