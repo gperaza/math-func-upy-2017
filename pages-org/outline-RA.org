@@ -1,0 +1,39 @@
+*1. Functions with analytic geometry*
+| Session | Topic                                                       | Date   |
+|---------+-------------------------------------------------------------+--------|
+|       1 | Course introduction. Units, rates and the modeling process. | May 3  |
+|       2 | The coordinate system and the distance formula.             | May 8  |
+|       3 | Vertical and horizontal lines; circles.                     | May 10 |
+|       4 | Linear Modeling.                                            | May 17 |
+|       5 | Functions and Graphs.                                       | May 22 |
+|       6 | Graphical Analysis.                                         | May 24 |
+|       7 | Quadratic Modeling.                                         | May 29 |
+|       8 | *Exam 1*                                                      | May 31 |
+|       9 | Composition.                                                | Jun 5  |
+|      10 | Inverse functions.                                          | Jun 7  |
+|      11 | Exponential functions.                                      | Jun 12 |
+|      12 | Exponential modeling.                                       | Jun 14 |
+|      13 | Logarithmic functions.                                      | Jun 19 |
+|      14 | Transformations on functions.                               | Jun 21 |
+|      15 | Rational functions.                                         | Jun 26 |
+
+*2. Trigonometry*
+| Session | Topic                      | Date   |
+|---------+----------------------------+--------|
+|      16 | Measuring an angle         | Jun 28 |
+|      17 | Circular motion            | Jul 3  |
+|      18 | *Exam 2*                     | Jul 5  |
+|      19 | The circular functions     | Jul 10 |
+|      20 | Trigonometric functions    | Jul 12 |
+|      21 | Sinusoidal functions       | Jul 17 |
+|      22 | Inverse circular functions | Jul 19 |
+
+*3. Vector algebra*
+| Session | Topic                               | Date   |
+|---------+-------------------------------------+--------|
+|      23 | Vectors in two and three dimensions | Jul 24 |
+|      24 | Linear transformations I            | Jul 26 |
+|      25 | Linear transformations II           | Jul 31 |
+|      26 | Change of basis                     | Ago 2  |
+|      27 | *Exam 3*                              | Ago 7  |
+|      28 | Review of final grade.              | Ago 9  |
